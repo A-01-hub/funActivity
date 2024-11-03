@@ -6,6 +6,3 @@ const other_name="Vansh"
  function sayName(name){
     console.log("My name is "+name)
  }
- function newfn(){
-    console.log("hi i am new function ")
- }
