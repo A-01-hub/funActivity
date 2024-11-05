@@ -6,3 +6,6 @@ const other_name="Vansh"
  function sayName(name){
     console.log(`My name is ${name}`)
  }
+function newFeatureadd(){
+   console.log("This is new feature")
+}
