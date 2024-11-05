@@ -8,4 +8,5 @@ const other_name="Vansh"
  }
 function newFeatureadd(){
    console.log("This is new feature")
+   console.log("This is new feature A")
 }
